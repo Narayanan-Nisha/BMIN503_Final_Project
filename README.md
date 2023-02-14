@@ -1,4 +1,4 @@
-# BMIN503/EPID600 Final Project
+# Effect of Airborne Patriculate Matter in Gene Expression of BEAS-2B Cells
 
 This repository contains the details, data and code for the final project of the Data Science for Biomedical Informatics course.
 
